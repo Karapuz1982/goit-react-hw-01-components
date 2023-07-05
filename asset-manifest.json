@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//github.com/Karapuz1982/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "//github.com/Karapuz1982/goit-react-hw-01-components/static/js/main.07d3183d.js",
-    "index.html": "//github.com/Karapuz1982/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "//github.com/Karapuz1982/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "//github.com/Karapuz1982/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.css": "/Karapuz1982/goit-react-hw-01-components/static/css/main.7acaea2f.css",
+    "main.js": "/Karapuz1982/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "index.html": "/Karapuz1982/goit-react-hw-01-components/index.html",
+    "main.7acaea2f.css.map": "/Karapuz1982/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Karapuz1982/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
