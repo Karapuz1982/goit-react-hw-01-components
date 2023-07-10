@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Karapuz1982/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/Karapuz1982/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/Karapuz1982/goit-react-hw-01-components/static/css/main.b5320759.css",
+    "main.js": "/Karapuz1982/goit-react-hw-01-components/static/js/main.9ddb5595.js",
     "index.html": "/Karapuz1982/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/Karapuz1982/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Karapuz1982/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.b5320759.css.map": "/Karapuz1982/goit-react-hw-01-components/static/css/main.b5320759.css.map",
+    "main.9ddb5595.js.map": "/Karapuz1982/goit-react-hw-01-components/static/js/main.9ddb5595.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.b5320759.css",
+    "static/js/main.9ddb5595.js"
   ]
 }
